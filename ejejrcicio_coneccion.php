@@ -12,7 +12,7 @@ Estructura del proyecto
 Vamos a crear un proyecto con la siguiente estructura:
 
 /mi_proyecto/
-├── index.html
+├── index.php
 ├── register.php
 └── database.php
 */
